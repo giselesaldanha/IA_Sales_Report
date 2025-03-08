@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/Imagem_dashboard.JPG"
+    src="./insight/VendasxDistribuidor.jpg"
     width="300"
 />
 </p>
