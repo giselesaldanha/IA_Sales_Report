@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./insight/VendasxDistribuidor.jpg"
+    src="./insights/VendasxDistribuidor.jpg"
     width="300"
 />
 </p>
